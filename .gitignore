@@ -1,0 +1,15 @@
+.idea/
+.git/
+target/
+TestAutomation.iml
+output.json
+*.png
+*.json
+*.js
+*.html
+*.css
+*.txt
+*.pdf
+temp/
+tmp/
+/results*
